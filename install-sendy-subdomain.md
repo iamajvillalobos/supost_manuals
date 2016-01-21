@@ -1,5 +1,3 @@
-[BACK TO HOME](README.md)
-
 # Install Sendy in a subdomain in DigitalOcean
 
 ## Requirements
